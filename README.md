@@ -51,6 +51,7 @@ The top stations for the subscribers are Pershing Square in Midtown Manhattan an
 ### 6. How many bikes have high use?
 
 Approximately 1/3 of the bikes have high use and the rest low. This can indicate that they will soon need to be replace or fixed.
+
 <img src="https://github.com/annarochav/Citibike_Analysis/blob/main/images/8_plot.png" width="600" height="" />
 
 ## ⚡Summary: 
